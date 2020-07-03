@@ -57,18 +57,19 @@ Unsuccessful speech segmentation.
 <td align="center" valign="center">
 <img src="imgs/Act_Seg.png" style="max-width:100%;" alt="action segmentation example" />
 <br />
-More successful action segmentation. 
+Successful action segmentation. 
 </td>
 
 </tr>
 
 </table>
 ***
-In both the speech and action domain, we know this segmentation task is achieved via a __combination of top-down and bottom-up processing__ of the information stream. 
+In both the speech and action domain, we know this segmentation task is achieved via a __combination of top-down and bottom-up processing__. 
 
+### Top-down and bottom-up
+Top-down processing involves the application of pre-existing knowledge to determine where boundaries between phrases occur. Bottom-up processing involved properties of the stimulus to determine boundary location. 
 
-### How top-down and bottom-up processes support segmentation
-Work with adults has highlighted top-down and bottom-up cues that support segmentation of speech and action. Some examples are outlined below. 
+Work with adults has highlighted top-down and bottom-up cues that support segmentation of speech and action. For example:
 
 <div style="overflow-x:auto;">
 <table style="table-layout: fixed ;width: 100% ;border-spacing: 10px;border-collapse: separate;" >
@@ -96,11 +97,11 @@ Work with adults has highlighted top-down and bottom-up cues that support segmen
 </figure>
 </td>
 <td style="background-color: #FB8B24;" align="center" valign="center">  
-<p style="margin:20px;"> Lexical knowledge supports identifcation of boundaries in speech <a href="https://doi.org/10.1037/0096-1523.33.4.960" target="_blank"> (e.g. Mattys et al., 2007) </a>.</p>
+<p style="margin:20px;"> Listeners apply their knoweldge of word meanings and grammar to determine the locations of boundaries in speech (e.g. <a href="https://doi.org/10.1037/0096-1523.33.4.960" target="_blank">Mattys et al., 2007</a>). </p>
 </td>
 
 <td style="background-color: #FB8B24;" align="center" valign="center">  
-<p style="margin:20px;"> Prosodic cues (e.g. pasue and pre-boundary lengthening) are produced at phrase boundaries <a href="https://doi.org/10.1080/01690961003589492" target="_blank"> (e.g. Wagner & Watson, 2010) </a>, and listeners make use of these cues to determine the location of phrase boundaries in speech <a href="https://doi.org/10.1023/A:1005192911512" target="_blank"> (e.g. Schafer et al., 2000) </a>. 
+<p style="margin:20px;"> Prosodic cues (e.g. <b>pasue and pre-boundary lengthening</b>) are produced at phrase boundaries (e.g. <a href="https://doi.org/10.1080/01690961003589492" target="_blank">Wagner & Watson, 2010)</a>, and listeners detect these cues to determine the location of phrase boundaries in speech (e.g. <a href="https://doi.org/10.1023/A:1005192911512" target="_blank">Schafer et al., 2000</a>). 
 </p>
 </td>
 
@@ -115,14 +116,14 @@ Work with adults has highlighted top-down and bottom-up cues that support segmen
 </figure>
 </td>
 <td style="background-color: #9A031E;color: white;" align="center" valign="center">  
-<p style="margin:20px;">Observers track the goals and intentions of an actor, and map boundaries to moments of goal-achievement <a href="http://dx.doi.org/10.1037/xlm0000364" style="color:#FF9300;" target="_blank"> (e.g. Levine et al., 2017) </a>.
+<p style="margin:20px;">Observers track the goals and intentions of an actor, and map boundaries to moments of goal-achievement  (e.g. <a href="http://dx.doi.org/10.1037/xlm0000364" style="color:#FF9300;" target="_blank">Levine et al., 2017</a>).
 </p>
 </td>
 
 
 
 <td style="background-color: #9A031E;color: white;" align="center" valign="center"> 
-<p style="margin:20px;">The movement itself contains kinematic cues to boundaries between actions. These kinematic cues include pause and pre-boundary lengthening <a href="https://doi.org/10.3389/fpsyg.2019.01566" style="color:#FF9300;" target="_blank"> (Hilton et al., 2019) </a>, and observers make use of these kinematic cues to determine the location of boundaries in the action sequence <a href="https://doi.org/10.3389/fpsyg.2010.00243" style="color:#FF9300;" target="_blank"> (Hemeren & Thill, 2010) </a>.   
+<p style="margin:20px;">The movement itself contains kinematic cues to boundaries between actions. These kinematic cues include <b>pause and pre-boundary lengthening</b> (<a href="https://doi.org/10.3389/fpsyg.2019.01566" style="color:#FF9300;" target="_blank">Hilton et al., 2019</a>), and observers make use of these kinematic cues to determine the location of boundaries in the action sequence (<a href="https://doi.org/10.3389/fpsyg.2010.00243" style="color:#FF9300;" target="_blank">Hemeren & Thill, 2010</a>).   
 </p>
 </td>
 
@@ -135,17 +136,21 @@ Work with adults has highlighted top-down and bottom-up cues that support segmen
 ### Developmental Perspective {data-height=150}
 
 - Infants' access to top-down processes is restricted, because they do not yet possess the knowledge/experience.
-- __In speech__, it has been proposed that __infants__ therefore initially __capitalise on bottom-up cues__ (prosody) to segment the stream (__Prosodic Bootstrapping Account__; ##ref)
-- However, __little is known__ about infants' processing of bottom-up cues during __action segmentation__.
-- In a further parallel to early speech processing, __infants may capitalize on kinematic boundary cues__ to initially segment actions, especially when the actions are unfamiliar or not goal-directed.
+- __In speech__, it has been proposed that __infants__ therefore initially __capitalise on bottom-up cues__ (prosody) to segment the stream (__Prosodic Bootstrapping Account__; <a href="https://books.google.de/books?id=Dnc6AAAAIAAJ&lpg=PP11&ots=cePqzDHIg5&dq=gleitman%20%26%20wanner&lr&pg=PP11#v=onepage&q=gleitman%20&%20wanner&f=false" target="_blank"> Gleitman & Wanner, 1982 </a>)
 
-### Research Questions and Aims {data-height=200}
+
+
+- However, __little is known__ about infants' processing of bottom-up cues during __action segmentation__.
+- In parallel to early speech processing, __infants may capitalize on kinematic boundary cues__ to initially segment actions, especially when the actions are unfamiliar or not goal-directed.
+
+### Research Questions and Aims {data-height=250}
 
 1. Are infants sensitive to kinematic boundary cues?
-    + By examining whether kinematic boundary cues evoke the same ERP component as evoked by prosodic boundary cues during infancy.
-2. Do the kinematic boundary cues modulate processing of subsequent actions.
+    + Measuring the electrophysiological response to kinematic boundary cues. 
+    + Examining whether the response is similar to that evoked by prosodic boundary cues. 
+2. Do the kinematic boundary cues modulate processing of the subsequent action?
     + Finding that infants are sensitive to kinematic boundary cues would not automatically mean that these cues play a role in action processing.
-    + We therefore examined whether the kinematic boundary cues modulate processing of the subsequent action, by examining differences in the ERP response to actions prior to, and following the boundary cues.
+    + We therefore examined whether the kinematic boundary cues modulate action processing, by examining electropsyshiological response to actions that do/do not follow kinematic boundary cues.
 
 
    
@@ -189,7 +194,7 @@ Row
 
 - Two action sequences were defined:
 
-<ol>
+<ol style="padding-left:100px;">
   <li> Turn then stretch then jump</li>
   <li> Jump then stretch then turn</li>
 </ol>
@@ -201,14 +206,14 @@ Row
 
 - On boundary trials, the boundary was signalled by two kinematic boundary cues:
 
-<ol>
+<ol style="padding-left:100px;">
   <li> <b>Pre-boundary lengthening:</b> To achieve pre-boundary lengthening, the second "half" of the pre-boundary action (stretch) was extended by 240 ms, by slowing down the rate at which the character returned to its normal size. </li>
   <li> <b>Pause:</b> Following the completion of the pre-boundary action, the character paused motionless for 350 ms. </li>
 </ol>
 
 - These timings were based on typical durations of pre-boundary lengthening and pause as found in naturally-produced speech, and durations of the actions forming the sequences were:
 
-```{r}
+```{r table_stimuliTimings}
 NB <- tribble(
   ~actionNB, ~durationNB, 
   "still frame", 1000,
@@ -268,29 +273,30 @@ cbind(NB, BC) %>%
 
 - Each character performed both sequences with and without a boundary, resulting in a final stimuli set of 12 videos (3 characters x 2 sequences x 2 trial types).
 
-- Here, you can see an example of a no-boundary trial and a boundary trial.
-    - _Note_: On web-browsers, these videos do not play at their full time-resolution, meaning that they can appear somewhat jumpy. When presented to participants in the lab, the videos were correctly rendered and smooth. 
+- Below, you can see an example of a no-boundary trial and a boundary trial.
+    - _Note_: On web-browsers, these videos do not play at their full time-resolution, meaning that they may appear somewhat jumpy. When presented to participants in the lab, the videos were correctly rendered and smooth. 
 
 Row
 -------------------------------------
 
 ### No-boundary trial
-    
-<video src="vids/NBNB1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
 
+<div style="text-align:center;">
+  <video src="vids/NBNB1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
+</div>
 ### Boundary trial
-
-<video src="vids/BCPD1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
-
+<div style="text-align:center;">
+  <video src="vids/BCPD1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
+</div>
 
 Row
 -------------------------------------
 
 ### Participants 
 
-23 12-month-old infants from German-speaking households contributed data.
+__12-month-old__ infants (_N_ = 23) from German-speaking households contributed data.
 
-```{r}
+```{r table_usableTrials}
 tribble(
   ~condition,~mean, ~min, ~max,
   "no-boundary", 23.2, 15, 34, 
@@ -299,7 +305,7 @@ tribble(
   mutate(range=paste(min, "-", max)) %>% 
   select(-min, -max) %>% 
   kable(format="html", escape=F, col.names=c("Condition", "Mean no. of trials", "Range"), 
-        caption = "Summary statistics of number of artefact-free trials contributed by participants") %>% 
+        caption = "Summary statistics: Number of artefact-free trials contributed by participants") %>% 
   kable_styling(full_width = F)
 ```
 
@@ -330,40 +336,16 @@ Question 1 {data-icon="fa-question-circle"}
 <hr style="margin-top:0em; margin-bottom:0em; margin-left:2em; width:20%; border-color:black"  />
 </p>
 <p style="font-family: times, serif; font-size:11pt; margin-top: 0em; margin-bottom: 1em; margin-left: 3em; margin-right: 3em;"> 
-An ERP component initially discovered in response to prosodic boundaries in speech <a href="https://doi.org/10.1038/5757" target="_blank">(Steinhauer et al., 1999) </a>. This component is a slow, broadly distributed positivity in the ERP that begins around the onset of the boundary and lasts approximately 500 ms <a href="https://doi.org/10.1162/jocn.2010.21587" target="_blank"> (Boegels et al., 2011) </a>. 
+An ERP component initially discovered in response to prosodic boundary cues in speech <a href="https://doi.org/10.1038/5757" target="_blank">(Steinhauer et al., 1999) </a>. This component is a slow, broadly distributed positivity in the ERP that begins around the onset of the boundary and lasts approximately 500 ms <a href="https://doi.org/10.1162/jocn.2010.21587" target="_blank"> (Boegels et al., 2011) </a>. 
 </p>
 </div>
 ***
 - Recent work has extended our understanding of the CPS in two critical ways: 
 
-1. The CPS has been found in response to boundaries in speech already during the first year of life `r reference("(Holzgrefe et al., 2018)","https://doi.org/10.1177/0023830917730590")`. 
-2. In adults, a CPS-like positivity has been found in response to boundaries in action sequences `r reference("(Hilton et al., 2019)","https://doi.org/10.3389/fpsyg.2019.01566")`.
+1. The CPS has been found __in response to prosodic boundary cues__ in speech already __during the first year of life__ `r reference("(Holzgrefe et al., 2018)","https://doi.org/10.1177/0023830917730590")`. 
+2. In adults, a __CPS-like positivity__ has been found in response to kinematic boundary cues in action sequences `r reference("(Hilton et al., 2019)","https://doi.org/10.3389/fpsyg.2019.01566")`.
 
-- We wanted to bring these two strands together, by testing whether a boundary in an action sequence evokes a CPS-like positivity already during infancy
-
-
-
-<!-- <script> -->
-<!-- $(document).ready(function(){ -->
-<!--     $('[data-toggle="popover"]').popover();  -->
-<!-- }); -->
-<!-- </script> -->
-```{r echo=FALSE}
-# popover_dt <- data.frame(
-#   position = c("adult", "infant"),
-#   stringsAsFactors = FALSE
-# )
-# popover_dt$`Auditory Stimuli` <- cell_spec(
-#   c("a", "b", "c", "d"), # Cell texts
-#   popover = spec_popover(
-#     content = c("aaa", "bbb", "ccc", "eee"),
-#     title = NULL,                           # title will add a Title Panel on top
-#     position = c("top", "top")
-#   ))
-# kable(popover_dt, escape = FALSE) %>%
-#   kable_styling("striped", full_width = FALSE)
-```
-
+- We wanted to bring these recent advances together, by testing whether a boundary in an action sequence evokes a CPS-like positivity already during infancy
 
 
 
@@ -382,7 +364,7 @@ Column {data-width=50 .tabset}
    
 ### ERP - Regions
 
-```{r CPS graph}
+```{r graph_CPSregion}
 
 pausePlot3<-
   readRDS("data/CPSdata.rds") %>% 
@@ -488,7 +470,7 @@ tosave <- arrangeGrob(graph.cps.region.data, graph.cps.region.stimuli, ncol=1, h
 
 ### ERP - Individual Electrodes
 
-```{r}
+```{r graph_CPSelectrode}
 pp4<-pausePlot3 %>% 
   group_by(electrode, condition, timeCorrect) %>% 
   summarize(meanA=mean(meanAmp)) 
@@ -526,7 +508,7 @@ For every trial, segments between the mid-point of the second action and the mid
 
 Repeated measures ANOVA (condition: no-boundary vs. boundary x region: frontal vs. central vs. posterior): 
 
-```{r}
+```{r table_CPSanova}
 pause <- readRDS("data/CPSanova.rds")
 
 anovaCPS <- ez::ezANOVA(pause, dv=meanMax, wid=vpcode, within=c("condition", "location"), within_full = c("condition", "location", "electrode"))
@@ -567,7 +549,7 @@ anovaCPS$ANOVA %>%
 
 - These results indicate a **positive shift in the boundary condition relative to the no-boundary condition**.
 - This difference in the ERPs indicates that the infants detected the kinematic boundary cues.
-- The ERP response to kinematic boundary cues is CPS-like, suggesting that the cognitive processes underlying the processing of  kinematic cues are similiar to those involved in prosodic boundary cue processing. 
+- The ERP response to kinematic boundary cues is CPS-like, suggesting that the cognitive processes underlying the processing of  kinematic cues are similiar to those involved in the processing of prosodic boundary cues. 
 
 Question 2 {data-icon="fa-question-circle"}
 =====================================  
@@ -578,11 +560,12 @@ Question 2 {data-icon="fa-question-circle"}
 </p>
 </div>
 
-- The finding that infants are sensitive to kinematic boundary cues does not neccessarily mean that these cues are involved in action segmentation. 
-- However, we therefore wanted to test whether kinematic boundary cues affect processing of the actions that form the sequence.
-- We decided to compare response to all three actions in the sequences. 
+- The finding that infants are sensitive to kinematic boundary cues does not neccessarily mean that these cues are involved in action processing 
+- We therefore wanted to test whether kinematic boundary cues affect processing of the actions that form the sequence.
+- We compared response to all three actions in the sequence. 
 - The kinekmatic boundary cues do not occur until the offset of the second action. 
-- If kinematic boundary cues affect action processing, we should therefore find an effect of condition on actions following the boundary cues (i.e. the final action).
+- If kinematic boundary cues affect action processing, we should therefore find an effect of condition only on actions following the boundary cues (i.e. the final action).
+- We took the negative central component as a candidate component by which to examine infants' encoding of the individual actions
 
 
 <div style="border:5px solid black;border-radius: 25px;background-color: white;">
@@ -591,12 +574,10 @@ Question 2 {data-icon="fa-question-circle"}
 <hr style="margin-top:0em; margin-bottom:0em; margin-left:2em; width:20%; border-color:black"  />
 </p>
 <p style="font-family: times, serif; font-size:11pt; margin-top: 0em; margin-bottom: 1em; margin-left: 3em; margin-right: 3em;"> 
-A negative peak in the ERP over fronto-central electrodes emerging between 300 and 900 ms following stimulus onset <a href="https://doi.org/10.1037/0012-1649.27.1.50" target="_blank">(e.g., Nelson & Collins, 1991; </a> <a href="https://doi.org/10.1037/0012-1649.41.4.598" target="_blank">Reynolds & Richards, 2005) </a> , implicated in attentional processing. Has recently been taken as a measure of action processing during infancy, reflecting attention to and encoding of an individual actions <a href="https://doi.org/10.1016/j.neuropsychologia.2017.05.007" target="_blank"> (Monroy et al., 2019)</a>. 
+A negative peak in the ERP over fronto-central electrodes emerging between 300 and 900 ms following stimulus onset, implicated in attentional processing <a href="https://doi.org/10.1037/0012-1649.27.1.50" target="_blank">(e.g., Nelson & Collins, 1991; </a> <a href="https://doi.org/10.1037/0012-1649.41.4.598" target="_blank">Reynolds & Richards, 2005) </a> . Has recently been taken as a measure of action processing during infancy, reflecting attention to and encoding of an individual actions <a href="https://doi.org/10.1016/j.neuropsychologia.2017.05.007" target="_blank"> (Monroy et al., 2019)</a>. 
 </p>
 </div>
 
-
-- We took the Nc and a candidate component by which to examine infants' encoding of the individual actions
 - Visual inspection of the ERPs indicates that the individual actions prior to the kinematic boundary cues evoke an Nc component. 
 
 
@@ -605,7 +586,7 @@ Column {data-width=60}
    
 ### ERP
 
-```{r Nc graph, out.height= "100%", fig.align = "center"}
+```{r graph_NC, out.height= "100%", fig.align = "center"}
 
 NCplot <- readRDS("data/dataForNcPlot.rds")
 colG=c("NB"="#E69F00", "BC"="#56B4E9") 
@@ -660,10 +641,10 @@ Column {data-width=40}
 
 ### Analysis & Conclusion
 
-For every trial, the Nc was analysed by exporting the minimum amplitude in the ERP in the 250 ms - 750 ms time interval following the onset of each action. This **mean minimum amplitude** was then averaged across six fronto-central electrodes (F3, Fz, F4, C3, Cz, C4), and analysed with a 3 (action: first, second, final) x 2 (condition: boundary, no-boundary) repeated measures ANOVA. 
+For every trial, the Nc was analysed by exporting the minimum amplitude from the ERP in the 250 ms - 750 ms time interval following the onset of each action. The **mean minimum amplitude** was then averaged across six fronto-central electrodes (F3, Fz, F4, C3, Cz, C4), and analysed with a 3 (action: first, second, final) x 2 (condition: boundary, no-boundary) repeated measures ANOVA. 
 
 
-```{r Nc anova}
+```{r table_NC}
 NcAnova <- readRDS("data/NCanova.rds")
 NcANOVA<-ez::ezANOVA(NcAnova, dv=meanMin, wid=vpcode, within=c("condition", "position"))
 
@@ -697,10 +678,10 @@ NcANOVA$ANOVA %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
-- These results indiacte that each action evoked an Nc-component, __except the final action in the no-boundary condition__. 
-- The Kinemtic boundary cues therefore modulated processing of subsequent actions.
+- These results indiacte that __each action evoked an Nc-component, except the final action in the no-boundary condition__. 
+- The kinemtic boundary cues modulated processing of the subsequent action.
 - The final action in the no-boundary could have been encoded as a continuation of the second action, hence no Nc-response. 
-- Alternatively, the final action in the no-boundary condition may have overloaded infants' processing capacity. Linematic boundary cues in the boundary condition could however have propmpted the chunking of previous actions, freeing-up capacity for the final action. 
+- Alternatively, the final action in the no-boundary condition may have overloaded infants' processing capacity. Kinematic boundary cues in the boundary condition could however have propmpted the chunking and storage of previous actions, freeing-up capacity for the final action. 
 
 <!-- ### Pairwise Comparisons -->
 
@@ -731,7 +712,7 @@ NcANOVA$ANOVA %>%
 tl;dr {data-icon="fa-cocktail"}
 ===================================== 
 
-```{r}
+```{r table_tldr}
 
 lovelyPalette <- c("#560E3A",
                    "#5F0F40", 
@@ -804,5 +785,15 @@ Poster {data-icon="fa-sticky-note"}
 ### Link to poster download
 
 ### References from poster
+
+1. <a href="https://doi.org/10.3389/fpsyg.2019.01566" target="_blank">Hilton et al., 2019.</a>
+2. <a href="https://doi.org/10.1038/5757" target="_blank">Steinhauer et al., 1999.</a>
+3. <a href="https://doi.org/10.1162/jocn.2010.21587" target="_blank">Boegels et al., 2011.</a>
+4. <a href="https://doi.org/10.1177/0023830917730590" target="_blank">Holzgrefe et al., 2018.</a>
+5. <a href="https://doi.org/10.1002/hbm.20088" target="_blank">Knoesche et al., 2005.</a>
+6. <a href="https://doi.org/10.1037/0012-1649.41.4.598" target="_blank">Reynolds & Richards, 2005.</a>
+7. <a href="https://doi.org/10.1016/j.neuropsychologia.2017.05.007" target="_blank">Monroy et al., 2019.</a>
+
+Twitter Icon on pdf from <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 
