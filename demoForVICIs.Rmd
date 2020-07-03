@@ -276,11 +276,11 @@ Row
 
 ### No-boundary trial
     
-<video src="vids/NBNB1.mp4" type="video/mp4" style="max-width:100%" controls="controls"></video>
+<video src="vids/NBNB1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
 
 ### Boundary trial
 
-<video src="vids/BCPD1.mp4" type="video/mp4" style="max-width:100%" controls="controls"></video>
+<video src="vids/BCPD1.mp4" type="video/mp4" style="max-width:100%;max-height:100%" controls="controls"></video>
 
 
 Row
@@ -480,9 +480,9 @@ tosave <- arrangeGrob(graph.cps.region.data, graph.cps.region.stimuli, ncol=1, h
   )
 )
 
-ggsave(tosave,file="graphs/CPS.eps", width=34.49, height=33.22, units="cm")
-ggsave(tosave,file="graphs/CPS.png", width=34.49, height=33.22, units="cm")
-ggsave(tosave,file="graphs/CPS.pdf", width=34.49, height=33.22, units="cm")
+#ggsave(tosave,file="graphs/CPS.eps", width=34.49, height=33.22, units="cm")
+#ggsave(tosave,file="graphs/CPS.png", width=34.49, height=33.22, units="cm")
+#ggsave(tosave,file="graphs/CPS.pdf", width=34.49, height=33.22, units="cm")
 
 ```
 
