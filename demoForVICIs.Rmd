@@ -795,7 +795,7 @@ Poster {data-icon="fa-sticky-note"}
 
 ### Link to poster download
 
-<a href="../pdf/poster_pdf.pdf">Link to pdf poster.</a>
+<a href="HILTONet_al_ICIS2020.pdf" target="_blank">Link to pdf poster.</a>
 
 ### References from poster
 
