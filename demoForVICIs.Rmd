@@ -40,7 +40,7 @@ Background {data-icon="fa-book-open"}
 
 ### Segmenting continuous streams
 
-Speech and action sequences are both __continuous information streams__ that must be successfully __segmented__ into constituent sub-units in order to be understood...
+Speech and action sequences are both __continuous information streams__ that must be successfully __segmented__ into constituent sub-units in order to be understood.
 
 ***
 
@@ -795,7 +795,7 @@ Poster {data-icon="fa-sticky-note"}
 
 ### Link to poster download
 
-<a href="HILTONet_al_ICIS2020.pdf" target="_blank">Link to pdf poster.</a>
+<a href="HILTONet_al_ICIS2020.pdf" target="_blank">Link to pdf handout.</a>
 
 ### References from poster
 
