@@ -809,4 +809,20 @@ Poster {data-icon="fa-sticky-note"}
 
 Twitter Icon on pdf from <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
+Contact {data-icon="fa-phone"}
+===================================== 
 
+### Name and Address
+Matt Hilton
+
+Karl-Liebknecht-Str. 24-25
+
+14476 Potsdam
+
+
+### Contact Info
+Telefon: 0331 977 2485
+
+E-Mail: matt.hilton@uni-potsdam.de
+
+Website: www.matthilton.de
